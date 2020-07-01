@@ -1,0 +1,38 @@
+body {
+    background: url('/img/404-2.jpg');
+}
+.container {
+    /* max-width: 50%; */
+    margin: 10px auto;
+}
+
+span {
+    font-size: 14px;
+}
+
+.color {
+    background-color: thistle;
+}
+
+.text-center {
+    max-width: 70%;
+    margin: 10px auto;
+}
+
+.img-responsive {
+    max-width: 40%;
+    margin: 10px 40px;
+    border-radius: 50%;
+    padding: auto;
+    height: 100px;
+    /* bottom: 50px!important; */
+    border: 1px solid #ece9e9;
+    box-shadow: 5px 8px 2px -3px #ece9e9;
+}
+.col-lg-4 {
+    max-width: 100%;
+}
+
+.sec-2 h5 {
+    color: #13344ecc ;
+}
